@@ -1,5 +1,3 @@
 # stp2021
-# stp2021
-# stp2021
-# stp2021
-# stp2021
+
+## My repo for STP labs
